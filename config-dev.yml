@@ -1,2 +1,5 @@
 
-server=123
+server:
+  port: 3345
+config:
+  info: 123456
